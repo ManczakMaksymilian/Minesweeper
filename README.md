@@ -1,1 +1,1 @@
-Minesweeper game for 1 person
+# Minesweeper game for 1 person
